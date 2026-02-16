@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["turbopack:///[project]/middleware.js"],"sourcesContent":["import { getToken } from 'next-auth/jwt'\r\nimport { NextResponse } from 'next/server'\r\n\r\nexport async function middleware(req) {\r\n  const token = await getToken({\r\n    req,\r\n    secret: process.env.NEXTAUTH_SECRET\r\n  })\r\n\r\n  if (!token) {\r\n    return NextResponse.redirect(new URL('/', req.url))\r\n  }\r\n\r\n  return NextResponse.next()\r\n}\r\n\r\nexport const config = {\r\n  matcher: ['/news/:path*','/archive/:path*', '/add-news/:path*']\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAA;AACA;AAAA;;;AAEO,eAAe,WAAW,GAAG;IAClC,MAAM,QAAQ,MAAM,IAAA,gKAAQ,EAAC;QAC3B;QACA,QAAQ,QAAQ,GAAG,CAAC,eAAe;IACrC;IAEA,IAAI,CAAC,OAAO;QACV,OAAO,gMAAY,CAAC,QAAQ,CAAC,IAAI,IAAI,KAAK,IAAI,GAAG;IACnD;IAEA,OAAO,gMAAY,CAAC,IAAI;AAC1B;AAEO,MAAM,SAAS;IACpB,SAAS;QAAC;QAAe;QAAmB;KAAmB;AACjE"}}]
+}

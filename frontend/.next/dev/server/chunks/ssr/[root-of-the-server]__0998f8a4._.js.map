@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/components/nav-link.js"],"sourcesContent":["'use client';\r\n\r\nimport Link from 'next/link';\r\nimport { usePathname } from 'next/navigation';\r\n\r\nexport default function NavLink({ href, children }) {\r\n  const path = usePathname();\r\n\r\n  return (\r\n    <Link href={href} className={path.startsWith(href) ? 'active' : undefined}>\r\n      {children}\r\n    </Link>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAEA;AACA;AAHA;;;;AAKe,SAAS,QAAQ,EAAE,IAAI,EAAE,QAAQ,EAAE;IAChD,MAAM,OAAO,IAAA,iJAAW;IAExB,qBACE,8OAAC,uKAAI;QAAC,MAAM;QAAM,WAAW,KAAK,UAAU,CAAC,QAAQ,WAAW;kBAC7D;;;;;;AAGP"}},
+    {"offset": {"line": 49, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/components/header/LogoutButton.js"],"sourcesContent":["'use client'\r\nimport { signOut } from 'next-auth/react'\r\n\r\nexport default function LogoutButton() {\r\n  return (\r\n    <a href='#' onClick={() => signOut({ callbackUrl: '/' })}>\r\n      Logout\r\n    </a>\r\n  )\r\n}\r\n\r\n"],"names":[],"mappings":";;;;;AACA;AADA;;;AAGe,SAAS;IACtB,qBACE,8OAAC;QAAE,MAAK;QAAI,SAAS,IAAM,IAAA,yJAAO,EAAC;gBAAE,aAAa;YAAI;kBAAI;;;;;;AAI9D"}}]
+}

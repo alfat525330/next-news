@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/app/%28content%29/archive/layout.js"],"sourcesContent":["export default function ArchiveLayout({ archive, latest }) {\r\n  return (\r\n    <div>\r\n      <h1>News Archive</h1>\r\n      <section id=\"archive-filter\">{archive}</section>\r\n      <section id=\"archive-latest\">{latest}</section>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS,cAAc,EAAE,OAAO,EAAE,MAAM,EAAE;IACvD,qBACE,8OAAC;;0BACC,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;gBAAQ,IAAG;0BAAkB;;;;;;0BAC9B,8OAAC;gBAAQ,IAAG;0BAAkB;;;;;;;;;;;;AAGpC"}}]
+}

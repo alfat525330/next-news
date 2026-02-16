@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 42, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/app/%28content%29/archive/%40latest/default.js"],"sourcesContent":["import NewsList from '@/components/news/news-list';\r\nimport { getNewsList } from '@/services/news.server';\r\nexport default async function LatestNewsPage() {\r\n  // this fun is for to call api on server to collect data\r\n    const {status,message,details : news} = await getNewsList();\r\n    if(!status){\r\n      return <p>{message}</p>\r\n    }\r\n    console.log('news',news)\r\n    // here we are calling only latest 3 news\r\n    const latestNews =  news.slice(0, 3);\r\n    \r\n  return (\r\n    <>\r\n      <h2>Latest News</h2>\r\n      <NewsList news={latestNews} />\r\n    </>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AACe,eAAe;IAC5B,wDAAwD;IACtD,MAAM,EAAC,MAAM,EAAC,OAAO,EAAC,SAAU,IAAI,EAAC,GAAG,MAAM,IAAA,yIAAW;IACzD,IAAG,CAAC,QAAO;QACT,qBAAO,8OAAC;sBAAG;;;;;;IACb;IACA,QAAQ,GAAG,CAAC,QAAO;IACnB,yCAAyC;IACzC,MAAM,aAAc,KAAK,KAAK,CAAC,GAAG;IAEpC,qBACE;;0BACE,8OAAC;0BAAG;;;;;;0BACJ,8OAAC,6IAAQ;gBAAC,MAAM;;;;;;;;AAGtB"}}]
+}
