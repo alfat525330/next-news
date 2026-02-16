@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/components/button.js"],"sourcesContent":["\"use client\";\r\n\r\nexport default function Button({ className = '', click, type = 'button', children  }) {\r\n  return (\r\n    <button\r\n      type={type}\r\n      className={className}\r\n      onClick={click}\r\n    >\r\n      {children }\r\n    </button>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;AAEe,SAAS,OAAO,EAAE,YAAY,EAAE,EAAE,KAAK,EAAE,OAAO,QAAQ,EAAE,QAAQ,EAAG;IAClF,qBACE,6LAAC;QACC,MAAM;QACN,WAAW;QACX,SAAS;kBAER;;;;;;AAGP;KAVwB"}}]
+}

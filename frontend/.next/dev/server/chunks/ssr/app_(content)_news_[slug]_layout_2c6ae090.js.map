@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/app/%28content%29/news/%5Bslug%5D/layout.js"],"sourcesContent":["export default function NewsDetailLayout({ children, modal }) {\r\n  return (\r\n    <>\r\n      {modal}\r\n      {children}\r\n    </>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS,iBAAiB,EAAE,QAAQ,EAAE,KAAK,EAAE;IAC1D,qBACE;;YACG;YACA;;;AAGP"}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/app/%28content%29/archive/%40archive/%5B%5B...filter%5D%5D/error.js"],"sourcesContent":["'use client';\r\n\r\nexport default function FilterError({ error }) {\r\n  return (\r\n    <div id=\"error\">\r\n      <h2>An error occurred!</h2>\r\n      <p>{error.message}</p>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;AAAA;;AAEe,SAAS,YAAY,EAAE,KAAK,EAAE;IAC3C,qBACE,6LAAC;QAAI,IAAG;;0BACN,6LAAC;0BAAG;;;;;;0BACJ,6LAAC;0BAAG,MAAM,OAAO;;;;;;;;;;;;AAGvB;KAPwB"}}]
+}

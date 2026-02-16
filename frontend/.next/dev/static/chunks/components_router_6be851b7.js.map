@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/components/router.js"],"sourcesContent":["\"use client\";\r\n\r\nimport { useRouter } from 'next/navigation';\r\n\r\nexport default async function RouteAccess(){\r\n    const router = useRouter();\r\n    return (\r\n        router\r\n    )\r\n}"],"names":[],"mappings":";;;;AAEA;;AAFA;;AAIe,eAAe;;IAC1B,MAAM,SAAS,IAAA,kJAAS;IACxB,OACI;AAER;GAL8B;;QACX,kJAAS;;;KADE"}}]
+}

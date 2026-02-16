@@ -1,0 +1,607 @@
+[00:00:00.756] Server  WARN    ⚠ The "middleware" file convention is deprecated. Please use "proxy" instead. Learn more: https://nextjs.org/docs/messages/middleware-to-proxy
+[00:00:00.888] Server  LOG     ✓ Ready in 604ms
+[00:00:01.893] Server  LOG     SERVER TOKEN: {}
+[00:00:01.930] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[00:00:02.234] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:02.407] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:02.569] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:02.738] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:02.899] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:03.078] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:03.272] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:03.494] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:03.701] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:04.005] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:04.272] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:04.570] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:04.840] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:05.140] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:05.423] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:05.707] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:00:06.167] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.706] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:31.787] Server  LOG     ✓ Compiled in 47ms
+[00:01:31.979] Server  LOG     SERVER TOKEN: {}
+[00:01:31.996] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[00:01:32.197] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:32.468] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:32.774] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:33.078] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:33.310] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:33.586] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:33.803] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:33.959] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:34.122] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:34.286] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:34.440] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:34.602] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:34.759] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:34.919] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:35.120] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:35.272] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:35.730] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:36.699] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:45.489] Server  LOG     SERVER TOKEN: {}
+[00:01:45.533] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[00:01:45.927] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:46.176] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:46.481] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:46.797] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:47.099] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:47.390] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:47.686] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:47.971] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:48.297] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:48.564] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:48.932] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:49.231] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:49.566] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:49.925] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:50.191] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:50.491] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:01:50.884] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:51.145] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:53.486] Server  LOG     SERVER TOKEN: {}
+[00:56:53.513] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[00:56:53.947] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:54.192] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:54.543] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:54.826] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:55.103] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:55.417] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:55.704] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:55.982] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:56.235] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:56.555] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:56.874] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:57.099] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:57.378] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:57.734] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:58.084] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:58.458] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:56:58.808] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:59.101] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:49.370] Server  LOG     SERVER TOKEN: {}
+[00:57:49.405] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[00:57:49.788] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:50.084] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:50.425] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:50.732] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:50.963] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:51.269] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:51.550] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:51.831] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:52.110] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:52.439] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:52.733] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:53.091] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:53.512] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:53.852] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:54.180] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:54.496] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[00:57:54.905] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:57:55.115] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:16.200] Server  LOG     SERVER TOKEN: {}
+[01:13:16.232] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[01:13:16.670] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:16.943] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:17.274] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:17.581] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:17.873] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:18.112] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:18.351] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:18.666] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:18.902] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:19.231] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:19.531] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:19.793] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:20.087] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:20.352] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:20.626] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:20.866] Server  ERROR   ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:21.235] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:21.683] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:13:23.118] Server  LOG     ✓ Compiled in 56ms
+[01:13:23.383] Server  LOG     SERVER TOKEN: {}
+[01:13:23.402] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[01:13:23.639] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:23.813] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:23.971] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:24.122] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:24.270] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:24.418] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:24.566] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:24.725] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:24.878] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:25.037] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:25.244] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:25.400] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:25.569] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:25.730] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:25.875] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:26.022] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:26.479] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:27.681] Browser ERROR   uncaughtError: Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:38.117] Server  LOG     SERVER TOKEN: {}
+[01:13:38.154] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[01:13:38.584] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:38.881] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:39.174] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:39.444] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:39.777] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:40.075] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:40.375] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:40.670] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:40.947] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:41.221] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:41.526] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:41.851] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:42.176] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:42.462] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:42.814] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:43.069] Server  ERROR   ⨯ Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[01:13:43.451] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:43.690] Browser ERROR   uncaughtError: Error: Functions cannot be passed directly to Client Components unless you explicitly expose it by marking it with "use server". Or maybe you meant to call this function rather than return it.
+  <... className=... Click={function Click} children=...>
+                           ^^^^^^^^^^^^^^^^
+[03:40:07.397] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[03:40:07.445] Server  LOG     ✓ Compiled in 223ms
+[03:40:10.819] Server  LOG     SERVER TOKEN: {}
+[03:40:10.870] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[03:40:12.191] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[03:41:01.318] Server  LOG     ✓ Compiled in 70ms
+[03:41:01.459] Server  LOG     SERVER TOKEN: {}
+[03:41:01.464] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[03:41:09.543] Server  LOG     SERVER TOKEN: {}
+[03:41:09.590] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[03:41:10.118] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[04:06:22.924] Server  LOG     SERVER TOKEN: {}
+[04:06:22.961] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:07:15.565] Browser LOG     response {"config":{"adapter":["xhr","http","fetch"],"allowAbsoluteUrls":true,"baseURL":"http://localhost:4000","data":"{\"name\":\"aliakbar kapda wala\",\"username\":\"aliakbar786\",\"email\":\"ali786@gmail.com\",\"contact_number\":\"9999990909\",\"password\":\"123456\"}","env":{},"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json"},"maxBodyLength":-1,"maxContentLength":-1,"method":"post","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"legacyInterceptorReqResOrdering":true,"silentJSONParsing":true},"url":"/api/auth/register","withCredentials":true,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":{"details":{"user":{"email":"ali786@gmail.com","id":3,"name":"aliakbar kapda wala","username":"aliakbar786"}},"message":"registration Succefully","status":true},"headers":{"content-length":"160","content-type":"application/json; charset=utf-8"},"request":{},"status":200,"statusText":"OK"}
+[04:07:15.565] Browser LOG     response true
+[04:07:24.893] Browser LOG     response {"config":{"adapter":["xhr","http","fetch"],"allowAbsoluteUrls":true,"baseURL":"http://localhost:4000","data":"{\"name\":\"aliakbar kapda wala\",\"username\":\"aliakbar7000\",\"email\":\"ali786@gmail.com\",\"contact_number\":\"9999990909\",\"password\":\"123456\"}","env":{},"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json"},"maxBodyLength":-1,"maxContentLength":-1,"method":"post","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"legacyInterceptorReqResOrdering":true,"silentJSONParsing":true},"url":"/api/auth/register","withCredentials":true,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":{"details":[],"message":"Username or Email already exists","status":"false"},"headers":{"content-length":"76","content-type":"application/json; charset=utf-8"},"request":{},"status":200,"statusText":"OK"}
+[04:07:24.893] Browser LOG     response false
+[04:07:39.943] Browser LOG     response {"config":{"adapter":["xhr","http","fetch"],"allowAbsoluteUrls":true,"baseURL":"http://localhost:4000","data":"{\"name\":\"aliakbar kapda wala\",\"username\":\"demo\",\"email\":\"ali786@gmail.com\",\"contact_number\":\"9999990909\",\"password\":\"123456\"}","env":{},"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json"},"maxBodyLength":-1,"maxContentLength":-1,"method":"post","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"legacyInterceptorReqResOrdering":true,"silentJSONParsing":true},"url":"/api/auth/register","withCredentials":true,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":{"details":[],"message":"Username or Email already exists","status":"false"},"headers":{"content-length":"76","content-type":"application/json; charset=utf-8"},"request":{},"status":200,"statusText":"OK"}
+[04:07:39.944] Browser LOG     response false
+[04:07:49.194] Browser LOG     response {"config":{"adapter":["xhr","http","fetch"],"allowAbsoluteUrls":true,"baseURL":"http://localhost:4000","data":"{\"name\":\"aliakbar kapda wala\",\"username\":\"demo\",\"email\":\"demo@gmail.com\",\"contact_number\":\"9999990909\",\"password\":\"123456\"}","env":{},"headers":{"Accept":"application/json, text/plain, */*","Content-Type":"application/json"},"maxBodyLength":-1,"maxContentLength":-1,"method":"post","timeout":0,"transformRequest":[null],"transformResponse":[null],"transitional":{"clarifyTimeoutError":false,"forcedJSONParsing":true,"legacyInterceptorReqResOrdering":true,"silentJSONParsing":true},"url":"/api/auth/register","withCredentials":true,"xsrfCookieName":"XSRF-TOKEN","xsrfHeaderName":"X-XSRF-TOKEN"},"data":{"details":{"user":{"email":"demo@gmail.com","id":4,"name":"aliakbar kapda wala","username":"demo"}},"message":"registration Succefully","status":true},"headers":{"content-length":"151","content-type":"application/json; charset=utf-8"},"request":{},"status":200,"statusText":"OK"}
+[04:07:49.194] Browser LOG     response true
+[04:08:10.033] Server  LOG     SERVER TOKEN: {}
+[04:08:10.045] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:08:25.771] Server  LOG     slug "the-beauty-of-landscape"
+[04:08:25.791] Server  LOG     SERVER TOKEN: {}
+[04:08:38.426] Server  LOG     SERVER TOKEN: {}
+[04:08:51.838] Server  LOG     SERVER TOKEN: {}
+[04:08:58.993] Server  LOG     SERVER TOKEN: {}
+[04:08:59.001] Server  LOG     SERVER TOKEN: {}
+[04:08:59.027] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:08:59.034] Server  LOG     links [2026,2024,2022,2021]
+[04:09:22.487] Server  LOG     SERVER TOKEN: {}
+[04:09:22.490] Server  LOG     SERVER TOKEN: {}
+[04:09:22.517] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:09:22.523] Server  LOG     links [2026,2024,2022,2021]
+[04:09:41.517] Server  LOG     SERVER TOKEN: {}
+[04:09:41.523] Server  LOG     SERVER TOKEN: {}
+[04:09:41.543] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:09:41.547] Server  LOG     links [2026,2024,2022,2021]
+[04:09:47.568] Server  LOG     SERVER TOKEN: {}
+[04:09:47.575] Server  LOG     SERVER TOKEN: {}
+[04:09:47.594] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:09:47.599] Server  LOG     links [2026,2024,2022,2021]
+[04:09:53.236] Server  LOG     SERVER TOKEN: {}
+[04:09:53.241] Server  LOG     SERVER TOKEN: {}
+[04:09:53.259] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:09:53.262] Server  LOG     links [2026,2024,2022,2021]
+[04:10:00.116] Server  LOG     slug "the-beauty-of-landscape"
+[04:10:00.134] Server  LOG     SERVER TOKEN: {}
+[04:10:32.754] Server  LOG     SERVER TOKEN: {}
+[04:10:32.762] Server  LOG     SERVER TOKEN: {}
+[04:10:32.796] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:10:32.800] Server  LOG     links [2026,2024,2022,2021]
+[04:11:05.407] Server  LOG     SERVER TOKEN: {}
+[04:11:05.427] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:11:10.858] Server  LOG     slug "add-news"
+[04:11:44.056] Server  LOG     SERVER TOKEN: {}
+[04:11:44.061] Server  LOG     SERVER TOKEN: {}
+[04:11:44.089] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:11:44.093] Server  LOG     links [2026,2024,2022,2021]
+[04:13:11.968] Server  LOG     SERVER TOKEN: {}
+[04:13:12.008] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:13:13.293] Server  LOG     slug "add-news"
+[04:15:02.300] Browser LOG     res {"details":{"content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","createdAt":"2026-02-16T11:59:11.774Z","date":"2026-02-02","id":9,"image":"1771243151769-image.png","is_deleted":false,"slug":"iran-war","status":"draft","title":"Iran war","updatedAt":"2026-02-16T11:59:11.774Z","user_id":4},"message":"News created","status":true}
+[04:15:02.300] Browser LOG     response true News created {"content":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.","createdAt":"2026-02-16T11:59:11.774Z","date":"2026-02-02","id":9,"image":"1771243151769-image.png","is_deleted":false,"slug":"iran-war","status":"draft","title":"Iran war","updatedAt":"2026-02-16T11:59:11.774Z","user_id":4}
+[04:15:02.652] Server  LOG     SERVER TOKEN: {}
+[04:15:02.673] Server  LOG     news [{...},{...},{...},{...},{...},{...},{...},{...},{...}]
+[04:15:06.315] Server  LOG     slug "iran-war"
+[04:15:06.331] Server  LOG     SERVER TOKEN: {}
