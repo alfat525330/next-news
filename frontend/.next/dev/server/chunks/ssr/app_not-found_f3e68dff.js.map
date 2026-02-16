@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/xampp/htdocs/next-demo-project/frontend/app/not-found.js"],"sourcesContent":["export default function NotFoundPage() {\r\n  return (\r\n    <div id=\"error\">\r\n      <h1>Not Found!</h1>\r\n      <p>The requested resource could not be found!</p>\r\n    </div>\r\n  );\r\n}\r\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,8OAAC;QAAI,IAAG;;0BACN,8OAAC;0BAAG;;;;;;0BACJ,8OAAC;0BAAE;;;;;;;;;;;;AAGT"}}]
+}
